@@ -1,12 +1,10 @@
 ### Olá! Sejam bem vindos ao meu GitHub! 👋
 
-- Me chamo João Pedro!
-- Estudante de Engenharia de Computação.
-- Acredito que o conhecimento é a chave para transformar o mundo e que a colaboração é essencial para seu desenvolvimento. 
-- Aqui, espero aprender bastante e contribuir com projetos e ideias que ajudem outros a crescer.
-- Atualmente estou interessado por áreas como Machine learning e Desenvolvimento de Sistemas.
-
-
+Me chamo João Pedro!
+- 🎓 Sou estudante de Engenharia de Computação.
+- 🦉 Acredito que o conhecimento é a chave para transformar o mundo e que a colaboração é essencial para seu desenvolvimento. 
+- 📈 Aqui, espero aprender bastante e contribuir com projetos e ideias que ajudem outros a crescer.
+- 🤖 Atualmente estou interessado por áreas como Machine learning e Desenvolvimento de Sistemas.
 <!--
 **joao326/joao326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
