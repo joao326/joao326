@@ -1,11 +1,10 @@
 ### Olá! Sejam bem vindos ao meu GitHub! 👋
 
-- 👽 Me chamo João Pedro!
-- 🎓 Estudante de Engenharia de Computação com previsão de formatura para o fim de 2024 pela UniCEUB.
-- 🦉 Acredito que o conhecimento é a chave para transformar o mundo e que a colaboração é essencial para seu desenvolvimento. 
-- 📈 Aqui, espero aprender bastante e contribuir com projetos e ideias que ajudem outros a crescer.
-- 🤖 Atualmente estou interessado por áreas como Inteligência Artificial e Desenvolvimento de Sistemas.
-- 👾 Estou sempre aberto a novos desafios e oportunidades de aprendizado.
+- Me chamo João Pedro!
+- Estudante de Engenharia de Computação.
+- Acredito que o conhecimento é a chave para transformar o mundo e que a colaboração é essencial para seu desenvolvimento. 
+- Aqui, espero aprender bastante e contribuir com projetos e ideias que ajudem outros a crescer.
+- Atualmente estou interessado por áreas como Machine learning e Desenvolvimento de Sistemas.
 
 
 <!--
