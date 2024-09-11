@@ -5,6 +5,8 @@ Me chamo João Pedro!
 - 🦉 Acredito que o conhecimento é a chave para transformar o mundo e que a colaboração é essencial para seu desenvolvimento. 
 - 📈 Aqui, espero aprender bastante e contribuir com projetos e ideias que ajudem outros a crescer.
 - 🤖 Atualmente estou interessado por áreas como Machine learning e Desenvolvimento de Sistemas.
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JPLabussiereF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 <!--
 **joao326/joao326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
