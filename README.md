@@ -2,24 +2,12 @@
 - 🎓 I'm João, a Computer Engineer currently interested in areas such as Machine learning ans System development. 🤖
 - 🦉 Always open to new connections to spread knowledge around.
 
+<div align="center">
+    
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JPLabussiereF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
-
-<h3 align="left">My Stack ~</h3>
-<div style="display: inline_block"><br>
-    <img align="left" alt="Hev-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img align="left" alt="Hev-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img align="left" alt="Hev-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align="left" alt="Hev-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-    <img align="left" alt="Hev-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
 ![snake gif](https://github.com/joao326/joao326/blob/output/github-snake-dark.svg)
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao326/joao326/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao326/joao326/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joao326/joao326/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <div align="center">
