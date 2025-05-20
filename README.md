@@ -13,6 +13,8 @@
     <img align="left" alt="Hev-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
+![snake gif](https://github.com/joao326/joao326/blob/output/github-snake-dark.svg)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joao326/joao326/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joao326/joao326/output/github-contribution-grid-snake-dark.svg">
